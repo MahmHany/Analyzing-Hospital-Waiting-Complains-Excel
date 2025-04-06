@@ -3,13 +3,22 @@ This project focuses on data analysis and reporting using Microsoft Excel, trans
 <br />
 
 
-<h2>Key Insights & Features</h2>
+## Key Insights & Features
 
-- <b>Data Cleaning & Preparation – Removed duplicates, handled missing values, and ensured data accuracy.</b> 
-- <b>Trend Analysis – Identified key patterns and business insights.</b>
-- <b>Pivot Tables & Charts – Created interactive summaries for quick decision-making</b>
-- <b>Conditional Formatting – Highlighted key performance indicators (KPIs) for better visibility</b>
-- <b>Company Comparisons – Side-by-side comparisons of financial performance and valuation changes.</b>
+- **Data Cleaning & Preparation: Ensuring Data Quality**  
+This feature involves removing duplicates, handling missing values, and ensuring data accuracy, laying a solid foundation for reliable analysis and insights.
+
+- **Trend Analysis: Uncovering Key Patterns**  
+Identify key patterns and business insights through trend analysis, enabling stakeholders to understand performance drivers and make informed strategic decisions.
+
+- **Pivot Tables & Charts: Interactive Data Summaries**  
+Create interactive pivot tables and charts to provide quick, actionable summaries of data, facilitating faster decision-making with clear visual representations.
+
+- **Conditional Formatting: Enhanced KPI Visibility**  
+Apply conditional formatting to highlight key performance indicators (KPIs), improving visibility and making it easier to spot critical metrics at a glance.
+
+- **Company Comparisons: Side-by-Side Financial Analysis**  
+This feature enables side-by-side comparisons of financial performance and valuation changes across companies, supporting benchmarking and competitive analysis.
 
 
 <h2>Tech Stack </h2>
